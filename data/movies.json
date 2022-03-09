@@ -1,157 +1,155 @@
-{
-  "movies": [
-    {
-      "name": "Toy Story",
-      "image": "514IG81HAhL.jpeg",
-      "price": 5,
-      "category": "Cartoon US",
-      "time": 131,
-      "trailer": "https://www.youtube.com/embed/rNk1Wi8SvNc",
-      "id": 1
-    },
-    {
-      "name": "Up",
-      "image": "9e4227a0ee81ec8874fd92cf6203066c.jpeg",
-      "category": "Cartoon US",
-      "price": 0,
-      "time": 195,
-      "trailer": "https://www.youtube.com/embed/HWEW_qTLSEE",
-      "id": 2
-    },
-    {
-      "name": "Logan",
-      "image": "Logan-2017.jpeg",
-      "category": "X-men Movie",
-      "price": 24,
-      "time": 252,
-      "trailer": "https://www.youtube.com/embed/Div0iP65aZo",
-      "id": 3
-    },
-    {
-      "name": "Doraemon Stand By Me",
-      "image": "Stand_by_Me_Doraemon_vn_poster.jpg",
-      "category": "Cartoon JP",
-      "price": 18,
-      "time": 180,
-      "trailer": "https://www.youtube.com/embed/AgmWfzlOvqw",
-      "id": 4
-    },
-    {
-      "name": "Howl'S Moving Castle",
-      "image": "51+FWnABEzL._AC_.jpg",
-      "category": "Cartoon JP",
-      "price": 11,
-      "time": 125,
-      "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
-      "id": 5
-    },
-    {
-      "name": "Spirited Away",
-      "image": "6ffb_4c098561.jpeg",
-      "category": "Cartoon JP",
-      "price": 0,
-      "time": 120,
-      "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
-      "id": 6
-    },
-    {
-      "name": "Avenger Age Of Ultron",
-      "image": "Avengers_-_Age_of_Utron_Poster.jpg",
-      "category": "Marvel Movie",
-      "price": 30,
-      "time": 250,
-      "trailer": "https://www.youtube.com/embed/tmeOjFno6Do",
-      "id": 7
-    },
-    {
-      "name": "Wall E",
-      "image": "51RoZRgIHtL._AC_.jpg",
-      "category": "Cartoon US",
-      "price": 22,
-      "time": 128,
-      "trailer": "https://www.youtube.com/embed/CZ1CATNbXg0",
-      "id": 8
-    },
-    {
-      "name": "Avenger End Game",
-      "image": "Avengers_Endgame_bia_teaser.jpg",
-      "category": "Marvel Movie",
-      "price": 30,
-      "time": 280,
-      "trailer": "https://www.youtube.com/embed/hA6hldpSTF8",
-      "id": 9
-    },
-    {
-      "name": "Avenger Infinity War",
-      "image": "Avengers-Infinity_War-Official-Poster.jpg",
-      "category": "Marvel Movie",
-      "price": 25,
-      "time": 250,
-      "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
-      "id": 10
-    },
-    {
-      "name": "Batman Vs Superman",
-      "image": "Batman_V_Superman_Dawn_Of_Justice.jpg",
-      "category": "DC Movie",
-      "price": 22,
-      "time": 158,
-      "trailer": "https://www.youtube.com/embed/0WWzgGyAH6Y",
-      "id": 11
-    },
-    {
-      "name": "Captain America Civil War",
-      "image": "Captain_America_Civil_War_poster.jpg",
-      "category": "Marvel Movie",
-      "price": 32,
-      "time": 225,
-      "trailer": "https://www.youtube.com/embed/dKrVegVI0Us",
-      "id": 12
-    },
-    {
-      "name": "Coco",
-      "image": "Coco_(phim_2017)_poster.jpeg",
-      "category": "Cartoon US",
-      "price": 0,
-      "time": 180,
-      "trailer": "https://www.youtube.com/embed/Rvr68u6k5sI",
-      "id": 13
-    },
-    {
-      "name": "Deadpool",
-      "image": "hinh-nen-deadpool-07.jpeg",
-      "category": "X-men Movie",
-      "price": 24,
-      "time": 150,
-      "trailer": "https://www.youtube.com/embed/ONHBaC-pfsk",
-      "id": 14
-    },
-    {
-      "name": "Kiki'S Delivery Service",
-      "image": "d5gLpu8kqyPs27bh9IiCuwMDjDh.png",
-      "category": "Cartoon JP",
-      "price": 0,
-      "time": 100,
-      "trailer": "https://www.youtube.com/embed/4bG17OYs-GA",
-      "id": 15
-    },
-    {
-      "name": "Eternal",
-      "image": "Eternals_(film)_poster.jpeg",
-      "category": "Marvel Movie",
-      "price": 28,
-      "time": 260,
-      "trailer": "https://www.youtube.com/embed/0WVDKZJkGlY",
-      "id": 16
-    },
-    {
-      "name": "Guardians Of The Galaxy Vol 2",
-      "image": "GotG_Vol2_poster.png",
-      "category": "Marvel Movie",
-      "price": 22,
-      "time": 280,
-      "trailer": "https://www.youtube.com/embed/dW1BIid8Osg",
-      "id": 17
-    }
-  ]
-}
+[
+  {
+    "name": "Toy Story",
+    "image": "514IG81HAhL.jpeg",
+    "price": 5,
+    "category": "Cartoon US",
+    "time": 131,
+    "trailer": "https://www.youtube.com/embed/rNk1Wi8SvNc",
+    "id": 1
+  },
+  {
+    "name": "Up",
+    "image": "9e4227a0ee81ec8874fd92cf6203066c.jpeg",
+    "category": "Cartoon US",
+    "price": 0,
+    "time": 195,
+    "trailer": "https://www.youtube.com/embed/HWEW_qTLSEE",
+    "id": 2
+  },
+  {
+    "name": "Logan",
+    "image": "Logan-2017.jpeg",
+    "category": "X-men Movie",
+    "price": 24,
+    "time": 252,
+    "trailer": "https://www.youtube.com/embed/Div0iP65aZo",
+    "id": 3
+  },
+  {
+    "name": "Doraemon Stand By Me",
+    "image": "Stand_by_Me_Doraemon_vn_poster.jpg",
+    "category": "Cartoon JP",
+    "price": 18,
+    "time": 180,
+    "trailer": "https://www.youtube.com/embed/AgmWfzlOvqw",
+    "id": 4
+  },
+  {
+    "name": "Howl'S Moving Castle",
+    "image": "51+FWnABEzL._AC_.jpg",
+    "category": "Cartoon JP",
+    "price": 11,
+    "time": 125,
+    "trailer": "https://www.youtube.com/embed/iwROgK94zcM",
+    "id": 5
+  },
+  {
+    "name": "Spirited Away",
+    "image": "6ffb_4c098561.jpeg",
+    "category": "Cartoon JP",
+    "price": 0,
+    "time": 120,
+    "trailer": "https://www.youtube.com/embed/ByXuk9QqQkk",
+    "id": 6
+  },
+  {
+    "name": "Avenger Age Of Ultron",
+    "image": "Avengers_-_Age_of_Utron_Poster.jpg",
+    "category": "Marvel Movie",
+    "price": 30,
+    "time": 250,
+    "trailer": "https://www.youtube.com/embed/tmeOjFno6Do",
+    "id": 7
+  },
+  {
+    "name": "Wall E",
+    "image": "51RoZRgIHtL._AC_.jpg",
+    "category": "Cartoon US",
+    "price": 22,
+    "time": 128,
+    "trailer": "https://www.youtube.com/embed/CZ1CATNbXg0",
+    "id": 8
+  },
+  {
+    "name": "Avenger End Game",
+    "image": "Avengers_Endgame_bia_teaser.jpg",
+    "category": "Marvel Movie",
+    "price": 30,
+    "time": 280,
+    "trailer": "https://www.youtube.com/embed/hA6hldpSTF8",
+    "id": 9
+  },
+  {
+    "name": "Avenger Infinity War",
+    "image": "Avengers-Infinity_War-Official-Poster.jpg",
+    "category": "Marvel Movie",
+    "price": 25,
+    "time": 250,
+    "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+    "id": 10
+  },
+  {
+    "name": "Batman Vs Superman",
+    "image": "Batman_V_Superman_Dawn_Of_Justice.jpg",
+    "category": "DC Movie",
+    "price": 22,
+    "time": 158,
+    "trailer": "https://www.youtube.com/embed/0WWzgGyAH6Y",
+    "id": 11
+  },
+  {
+    "name": "Captain America Civil War",
+    "image": "Captain_America_Civil_War_poster.jpg",
+    "category": "Marvel Movie",
+    "price": 32,
+    "time": 225,
+    "trailer": "https://www.youtube.com/embed/dKrVegVI0Us",
+    "id": 12
+  },
+  {
+    "name": "Coco",
+    "image": "Coco_(phim_2017)_poster.jpeg",
+    "category": "Cartoon US",
+    "price": 0,
+    "time": 180,
+    "trailer": "https://www.youtube.com/embed/Rvr68u6k5sI",
+    "id": 13
+  },
+  {
+    "name": "Deadpool",
+    "image": "hinh-nen-deadpool-07.jpeg",
+    "category": "X-men Movie",
+    "price": 24,
+    "time": 150,
+    "trailer": "https://www.youtube.com/embed/ONHBaC-pfsk",
+    "id": 14
+  },
+  {
+    "name": "Kiki'S Delivery Service",
+    "image": "d5gLpu8kqyPs27bh9IiCuwMDjDh.png",
+    "category": "Cartoon JP",
+    "price": 0,
+    "time": 100,
+    "trailer": "https://www.youtube.com/embed/4bG17OYs-GA",
+    "id": 15
+  },
+  {
+    "name": "Eternal",
+    "image": "Eternals_(film)_poster.jpeg",
+    "category": "Marvel Movie",
+    "price": 28,
+    "time": 260,
+    "trailer": "https://www.youtube.com/embed/0WVDKZJkGlY",
+    "id": 16
+  },
+  {
+    "name": "Guardians Of The Galaxy Vol 2",
+    "image": "GotG_Vol2_poster.png",
+    "category": "Marvel Movie",
+    "price": 22,
+    "time": 280,
+    "trailer": "https://www.youtube.com/embed/dW1BIid8Osg",
+    "id": 17
+  }
+]
