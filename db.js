@@ -1,7 +1,7 @@
-const movies = require("./data/movies");
+const product = require("./data/product");
 
 module.exports = {
-   movies
+   product
 }
 
 
