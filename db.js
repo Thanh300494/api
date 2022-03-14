@@ -1,7 +1,7 @@
 const movies = require("./data/movies");
 
 module.exports = {
-  movies
+   movies
 }
 
 
@@ -13,7 +13,6 @@ module.exports = {
 //   tags = [].concat.apply([], tags);
 //   tags = [...new Set(tags)];
 
- 
 
 //   var brands = items.map((i) => i.manufacturer);
 //   brands = [...new Set(brands)];
