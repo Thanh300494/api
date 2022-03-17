@@ -6,5 +6,53 @@
     "category": "LEGO® Harry Potter™",
     "difficulty_level": 3,
     "id": 1
+  },
+  {
+    "name": "Anna’s Castle Courtyard",
+    "image": "https://thhxxx.github.io/Anna’s Castle Courtyard.webp",
+    "price": 12,
+    "category": "LEGO® | Disney",
+    "difficulty_level": 0,
+    "id": 2
+  },
+  {
+    "name": "Atrociraptor Dinosaur Bike Chase",
+    "image": "https://thhxxx.github.io/Atrociraptor Dinosaur Bike Chase.webp",
+    "price": 10,
+    "category": "LEGO® Jurassic World™",
+    "difficulty_level": 0,
+    "id": 3
+  },
+  {
+    "name": "Batcave™ The Riddler™ Face-off",
+    "image": "https://thhxxx.github.io/Batcave™ The Riddler™ Face-off.webp",
+    "price": 22,
+    "category": "LEGO® DC",
+    "difficulty_level": 2,
+    "id": 4
+  },
+  {
+    "name": "Batman™ Classic TV Series – Batcave",
+    "image": "https://thhxxx.github.io/Batman™ Classic TV Series – Batcave.webp",
+    "price": 24,
+    "category": "LEGO® DC",
+    "difficulty_level": 3,
+    "id": 5
+  },
+  {
+    "name": "Batmobile™ Tumbler Scarecrow™ Showdown",
+    "image": "https://thhxxx.github.io/Batmobile™ Tumbler Scarecrow™ Showdown.webp",
+    "price": 35,
+    "category": "LEGO® DC",
+    "difficulty_level": 3,
+    "id": 6
+  },
+  {
+    "name": "Belle and Rapunzel's Royal Stables",
+    "image": "https://thhxxx.github.io/Belle and Rapunzel's Royal Stables.webp",
+    "price": 12,
+    "category": "LEGO® | Disney",
+    "difficulty_level": 0,
+    "id": 7
   }
 ]
