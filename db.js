@@ -1,7 +1,9 @@
 const product = require("./data/product");
+const cart = require("./data/cart");
 
 module.exports = {
-   product
+   product,
+   cart
 }
 
 
